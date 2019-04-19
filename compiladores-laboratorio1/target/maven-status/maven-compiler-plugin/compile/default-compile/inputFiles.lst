@@ -1,0 +1,17 @@
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/book/dao/BookDao.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/read/dao/JdbcReadService.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/read/service/ReadService.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/student/service/StudentService.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/model/read.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/model/book.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/student/dao/StudentDao.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/book/dao/JdbcBookService.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/book/service/BookServiceImpĺ.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/build/DataLoader.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/book/service/BookService.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/ucr/ac/ecci/ci1322/laboratorio1/App.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/read/service/ReadServiceImpl.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/model/student.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/student/service/StudentServiceImpl.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/read/dao/ReadDao.java
+/home/nathan/ci1322-lab1/ci1322-lab1/compiladores-laboratorio1/src/main/java/core/student/dao/JdbcStudentService.java

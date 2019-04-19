@@ -1,0 +1,17 @@
+core/student/service/StudentService.class
+ucr/ac/ecci/ci1322/laboratorio1/App.class
+core/student/dao/StudentDao.class
+core/student/dao/JdbcStudentService.class
+build/DataLoader.class
+core/book/service/BookServiceImpĺ.class
+core/student/service/StudentServiceImpl.class
+model/book.class
+core/read/dao/ReadDao.class
+model/student.class
+core/book/dao/JdbcBookService.class
+core/read/service/ReadServiceImpl.class
+core/book/dao/BookDao.class
+core/read/dao/JdbcReadService.class
+core/read/service/ReadService.class
+model/read.class
+core/book/service/BookService.class
